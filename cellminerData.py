@@ -17,3 +17,8 @@ df.to_csv('RNA__Affy_HG_U133_Plus_2.0_RMA_entrez_gmean.csv', sep=',')
 
 
 print(df_in.head())
+
+
+
+
+
